@@ -2,3 +2,4 @@ minhas ideias iniciais eram colocar o que ando estudando, mas acho melhor coloca
 nesse repositório não tive muita dificuldade em fazer e como era algo livre fiz o que me veio a cabeça
 os link postados então no GitHub.
 usei todos os recursos mostrados para fazer o desafio!!!
+git clone, cd , git status, git add. , git commit -m, git push origin main.
