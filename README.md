@@ -1,7 +1,7 @@
 # desafio-DIO-primeirorepositorio
 Repositório do desafio
 
-##Sites que uso para estudar progromação
+##Sites que uso para estudar programação
 [DIO.](https://www.dio.me/)
 [Rocktseat](https://www.rocketseat.com.br/)
 [.Código Fonte TV.](https://www.youtube.com/watch?v=BTENKdRVS2U)
